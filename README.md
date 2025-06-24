@@ -86,7 +86,7 @@ From fundamentals to real-world projects — this repo is my **daily progress**,
 ## 🙌 Connect with Me
 
 - 📧 rohannishad.dev@gmail.com  
-- 🐦 [Twitter](https://x.com/NishadRoha13643) | 💼 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/rohan-nishad-4a79a5234/))  
+- 🐦 [Twitter](https://x.com/NishadRoha13643) | 💼 [LinkedIn](https://www.linkedin.com/in/rohan-nishad-4a79a5234/) 
 - 💻 [Portfolio](https://rohan-nishad.vercel.app)
 
 ---
