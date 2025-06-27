@@ -20,4 +20,7 @@ public class stringpallindrome {
             String str = "maam";
 
         }
+
+        //s = s.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
+        // used to remove all the special character and space also make all the text in lowercase
 }
